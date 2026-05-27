@@ -49,6 +49,3 @@ If you are a developer, investor, potential partner, or simply interested in uti
 
 ---
 
-<p align="center">
-  <sub>Created with ❤️ by <a href="https://github.com/ashcabula30">ashcabula30</a>. All rights reserved.</sub>
-</p>
