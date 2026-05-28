@@ -1,8 +1,8 @@
 <div align="center">
-  <img width="268" height="640" alt="sova-chibi" src="https://github.com/user-attachments/assets/64d66657-aafe-40b9-b588-fdc1760361bd" />
+  <img width="150" alt="sova-chibi" src="assets/sova-chibi.png" />
 </div>
 
-# 🌌 NowhereToSpend
+# NowhereToSpend
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-blueviolet?style=for-the-badge&logo=vercel)](https://nowheretospend.vercel.app)
 [![SaaS](https://img.shields.io/badge/Product-SaaS%20Platform-blue?style=for-the-badge)](https://github.com/ashcabula30/NowhereToSpend)
