@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="268" height="640" alt="sova-chibi" src="https://github.com/user-attachments/assets/64d66657-aafe-40b9-b588-fdc1760361bd" />
+</div>
+
 # 🌌 NowhereToSpend
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-blueviolet?style=for-the-badge&logo=vercel)](https://nowheretospend.vercel.app)
@@ -15,7 +19,6 @@
 - **🏦 Unified Account Management**: Consolidate and monitor balances across multiple bank accounts and custom financial categories.
 - **📈 Advanced Expense Planning**: Commission tracking, monthly fixed expense oversight, and flexible goal-setting utilities.
 - **🛍️ Affordability Simulator**: A smart wishlist playground that simulates purchases against your real-time budget, telling you exactly when and how you can afford what you want.
-- **🎨 Premium UX/UI**: Designed with a high-fidelity SaaS aesthetic, gorgeous dark-mode-first interfaces, and buttery smooth animations.
 
 ---
 
